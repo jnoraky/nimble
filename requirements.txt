@@ -1,0 +1,5 @@
+The following are required:
+python3
+numpy
+matplotlib
+cv2
